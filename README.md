@@ -161,8 +161,8 @@ Enter your choice:
 ```text
 Enter Roll Number: 101
 Enter Name: Ayush
-Enter Branch: CSE
-Enter CGPA: 8.7
+Enter Branch: CE
+Enter CGPA: 9.5
 
 Student added successfully!
 ```
@@ -172,15 +172,15 @@ Student added successfully!
 ```text
 Roll No   Name                Branch         CGPA
 -------------------------------------------------------
-101       Ayush               CSE            8.7
-102       Rahul               IT             8.2
-103       Aditya              AIML           9.1
+101       Ayush               CE              9.5
+102       Yash                CSE              9
+103       Akshay              CE              9.7
 ```
 
 ### Average CGPA
 
 ```text
-Average CGPA: 8.67
+Average CGPA: 9.2
 ```
 
 ---
@@ -196,9 +196,9 @@ students.txt
 For example:
 
 ```text
-101 Ayush CSE 8.7
-102 Rahul IT 8.2
-103 Aditya AIML 9.1
+101 Ayush CE 9.5
+102 Yash CSE 9
+103 Akshay CE 9.7
 ```
 
 When the program starts again, these records are automatically loaded.
